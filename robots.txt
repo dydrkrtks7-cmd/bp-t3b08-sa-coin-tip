@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yeongdeungpo-club-note.gangnam-night-zone.xyz/sitemap.xml
+Sitemap: https://yeongdeungpo-club-note.gangnam-night-zone.xyz/sitemap-pages.xml
